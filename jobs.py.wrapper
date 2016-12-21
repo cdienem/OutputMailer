@@ -1,5 +1,5 @@
 #!/bin/bash
 
-source /usr/users/cdienem/cron_scripts/environ
+source /usr/users/USER/cron_scripts/environ
 
-python /usr/users/cdienem/cron_scripts/jobs.py
+python /usr/users/USER/cron_scripts/jobs.py
